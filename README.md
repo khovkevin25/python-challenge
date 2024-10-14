@@ -1,8 +1,8 @@
 # python-challenge
 
-##Kevin Khov
+## Kevin Khov
 
-###10/13/24
+### 10/13/24
 
 The goals of this challenge were to use Python to perform two different tasks: analyze financial records to determine various metrics such as total profit/losses and average change, and analyze poulation data to help a town modernize its vote-counting process with metrics such as total votes and winners of an election.
 
